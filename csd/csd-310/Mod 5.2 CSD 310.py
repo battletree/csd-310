@@ -1,4 +1,4 @@
-#Mitchell Kwon
+#Mitchell D. Kwon
 #CSD 310
 #6/23/21
 #connecting to MongoDB
