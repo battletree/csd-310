@@ -5,11 +5,11 @@
 
 from pymongo import MongoClient
 
-url = "mongodb+srv://admin:admin@cluster0.lifch.mongodb.net/test";
+url = "mongodb+srv://admin:admin@cluster0.lifch.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 client =MongoClient(url)
 
 db = client.pytech
 
 print("-- pytech Collection List --")
-print(db.list_coillection_names)
+print(db.list_collection_names())
