@@ -1,3 +1,7 @@
+#Mitchell D. Kwon
+# CSD 310   
+# learning how to update
+
 #import statements
 from pymongo import MongoClient
 
