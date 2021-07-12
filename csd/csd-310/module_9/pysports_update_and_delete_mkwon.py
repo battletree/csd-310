@@ -1,6 +1,6 @@
 # Mitchell D. Kwon
 # CSD 310
-# MOD 9.2
+# MOD 9.3
 
 import mysql.connector
 from mysql.connector import errorcode
